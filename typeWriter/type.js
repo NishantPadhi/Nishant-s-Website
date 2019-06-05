@@ -4,7 +4,7 @@
 
     typewriter.typeString('Hi, I am Nishant Padhi!')
       .pauseFor(2500)
-      .deleteAll()
+      .deleteAll(100)
       .typeString('I am Web & Andorid Developer!!!')
       .pauseFor(2500)
-      .start();
+      .start(100);
