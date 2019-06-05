@@ -5,9 +5,6 @@
     typewriter.typeString('Hi, I am Nishant Padhi!')
       .pauseFor(2500)
       .deleteAll()
-      .typeString('I am Web & Android developer')
-      .pauseFor(2500)
-      .deleteChars(13)
-      .typeString('<strong>Full Stack Web Developer & Android Developer!<strong>')
+      .typeString('I am Web & Andorid Developer!!!')
       .pauseFor(2500)
       .start();
